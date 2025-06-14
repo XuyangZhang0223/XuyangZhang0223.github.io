@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yongqiang Zhao"
+title                    : "Xuyang Zhang"
 title_separator          : "-"
-name                     : &name "Yongqiang Zhao"
+name                     : &name "Xuyang Zhang"
 description              : &description "personal description"
-url                      : https://rancho-zhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://XuyangZhang0223.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Rancho-zhao/Rancho-zhao.github.io"
+repository               : "XuyangZhang0223/XuyangZhang0223.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yongqiang Zhao"
-  avatar           : "profile.png"
-  bio              : "A robotic explorer since childhood."
+  name             : "Xuyang Zhang"
+  avatar           : "profile.jpg"
+  bio              : "PhD student in AI and tactile robotics"
   location         : "London, UK"
-  employer         :
+  employer         : "King's College London"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Be7dj_oAAAAJ"
-  email            : yongqiang.zhao@kcl.ac.uk
-  researchgate     : "https://www.researchgate.net/profile/Yongqiang-Zhao-10"
+  googlescholar    : "https://scholar.google.com/citations?user=osQ5dAkAAAAJ&hl=en"
+  email            : "xuyang.zhang@kcl.ac.uk"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Rancho-zhao"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "https://uk.linkedin.com/in/xuyang-zhang-04503315b"
   orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-9532-9970"
   pinterest        :
   soundcloud       :
