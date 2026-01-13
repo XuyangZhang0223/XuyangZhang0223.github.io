@@ -20,7 +20,7 @@ Email: [xuyang.zhang@kcl.ac.uk](xuyang.zhang@kcl.ac.uk)
 
 News
 ======
-* **Jan 2026**: Our paper titled "SimTac: A Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures", has been accepted to Cyborg and Bionic Systems, congratulations to the team! [[paper link]](https://arxiv.org/abs/2511.11456)
+* **Jan 2026**: Our paper titled "SimTac: A Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures", has been accepted to Cyborg and Bionic Systems, congratulations to the team! [[paper link]](https://arxiv.org/abs/2511.11456) [[website]](https://xuyangzhang0223.github.io/SimTac/)
 * **Dec 2025**: Our paper titled "Training Tactile Sensors to Learn Force Sensing from Each Other", has been accepted to Nature Communications, congratulations to Zhuo! [[paper link]](https://arxiv.org/abs/2503.01058) [[website]](https://zhuochenn.github.io/genforce-project/)
 * **Oct 2025**: Our RoTipBot won the Best Paper Award at IROS 2025 Workshop on "Tactile Sensing Toward Robot Dexterity and Intelligence", congratulations to the team!
 * **Oct 2025**: Our RoTipBot won the Best Visual Paper Award at IROS 2025 Workshop on "Bio-Inspired Robotic Perception and Control: Bridging Centralized and Decentralized Intelligence", congratulations to the team!
