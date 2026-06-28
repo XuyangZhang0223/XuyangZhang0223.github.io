@@ -20,7 +20,7 @@ Email: [xuyang.zhang@kcl.ac.uk](xuyang.zhang@kcl.ac.uk)
 
 News
 ======
-* **June 2026**: Our paper titled "EleTac: Elephant Trunk Tip-Inspired Soft Gripper with Vision-Based Tactile Sensing and Proprioception", has been accepted to IEEE Transactions on Robotics, congratulations to the team! [[paper link]](https://ieeexplore.ieee.org/document/11581352?denied=) [[website]] (https://ho-lab-jaist.github.io/eletac/)
+* **June 2026**: Our paper titled "EleTac: Elephant Trunk Tip-Inspired Soft Gripper with Vision-Based Tactile Sensing and Proprioception", has been accepted to IEEE Transactions on Robotics, congratulations to the team! [[paper link]](https://ieeexplore.ieee.org/document/11581352?denied=) [[website]](https://ho-lab-jaist.github.io/eletac/)
 * **Jan 2026**: Our paper titled "SimTac: A Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures", has been accepted to Cyborg and Bionic Systems, congratulations to the team! [[paper link]](https://spj.science.org/doi/10.34133/cbsystems.0510) [[website]](https://xuyangzhang0223.github.io/SimTac/)
 * **Dec 2025**: Our paper titled "Training Tactile Sensors to Learn Force Sensing from Each Other", has been accepted to Nature Communications, congratulations to Zhuo! [[paper link]](https://arxiv.org/abs/2503.01058) [[website]](https://zhuochenn.github.io/genforce-project/)
 * **Oct 2025**: Our RoTipBot won the Best Paper Award at IROS 2025 Workshop on "Tactile Sensing Toward Robot Dexterity and Intelligence", congratulations to the team!
