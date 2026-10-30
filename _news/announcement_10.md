@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-05-14 07:59:00-0400
+date: 2025-08-14 07:59:00-0400
 inline: true
 ---
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
-Our paper got accepted by [RSS 2021](https://roboticsconference.org/2021/). :tada:
+Our paper titled "A framework for robotic manipulation tasks based on multiple zero shot models" has been accepted to Scientific Reports, congratulations to Yifan! [[paper link]](https://www.nature.com/articles/s41598-025-17015-z)
