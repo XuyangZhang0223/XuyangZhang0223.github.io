@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-06-02 16:11:00-0400
+date: 2026-06-02 16:11:00-0400
 inline: true
 ---
-I presented our poster at the [ICRA 2023 ViTac Workshop](https://shanluo.github.io/ViTacWorkshops/) in London, UK.
+Our paper titled "EleTac: Elephant Trunk Tip-Inspired Soft Gripper with Vision-Based Tactile Sensing and Proprioception", has been accepted to <span style="color: #CC00CC;">IEEE Transactions on Robotics</span>, congratulations to the team! [[paper link]](https://ieeexplore.ieee.org/document/11581352?denied=) [[website]](https://ho-lab-jaist.github.io/eletac/)
 
