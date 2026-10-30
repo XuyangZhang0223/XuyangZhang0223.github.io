@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-09-3 15:59:00-0400
+date: 2025-12-3 15:59:00-0400
 inline: true
 ---
 
-Our paper got nominated as the best student paper award at [the 27th IEEE International Conference on Automation and Computing (ICAC2022)](https://cacsuk.co.uk/icac2022/).  :tada:
+Our paper titled "Training Tactile Sensors to Learn Force Sensing from Each Other", has been accepted to <span style="color: #CC00CC;">Nature Communications</span>, congratulations to Zhuo! [[paper link]](https://arxiv.org/abs/2503.01058) [[website]](https://zhuochenn.github.io/genforce-project/)
