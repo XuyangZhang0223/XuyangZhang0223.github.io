@@ -3,6 +3,25 @@
 ---
 @charset "utf-8";
 
+// Global font
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span,
+li,
+nav,
+button,
+input,
+textarea {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
