@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-03 15:59:00-0400
+date: 2026-01-03 15:59:00-0400
 inline: true
 ---
-We released the [code](https://github.com/ac-93/tactile_gym) for our [Tactile Gym 2.0 paper](https://github.com/ac-93/tactile_gym) (RAL/IROS 2022).
+Our paper titled "SimTac: A Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures", has been accepted to Cyborg and Bionic Systems, congratulations to the team! [[paper link]](https://spj.science.org/doi/10.34133/cbsystems.0510) [[website]](https://xuyangzhang0223.github.io/SimTac/)
