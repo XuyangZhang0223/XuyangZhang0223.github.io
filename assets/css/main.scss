@@ -32,3 +32,9 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+// Justify paragraph text
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
