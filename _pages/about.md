@@ -13,6 +13,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
+---
 
 I am currently a Ph.D. student at [King’s College London](https://www.kcl.ac.uk/), supervised by Prof. [Shan Luo](https://shanluo.github.io/). My research focuses on the design, simulation, and application of vision-based tactile sensors, as well as the development of multi-fingered robotic grippers for dexterous manipulation. My goal is to empower robots with human-like tactile perception and dexterity, enabling them to operate autonomously and adaptively in complex, real-world environments.
 
