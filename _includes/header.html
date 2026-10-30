@@ -119,9 +119,11 @@
                 {% endif %}
                 {% assign language_label = "中文" %}
               {% endif %}
-              <li class="nav-item">
-                <a class="nav-link language-toggle" href="{{ language_url | relative_url }}">{{ language_label }}</a>
-              </li>
+                {% comment %}
+                <li class="nav-item">
+                  <a class="nav-link language-toggle" href="{{ language_url | relative_url }}">{{ language_label }}</a>
+                </li>
+                {% endcomment %}
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
