@@ -271,6 +271,9 @@ scholar:
   details_layout: bibtex.html
   details_link: Details
 
+  sort_by: home_order
+  order: ascending
+
   query: "@*"
 
 badges: # Display different badges for your pulications
