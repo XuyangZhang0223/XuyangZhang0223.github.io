@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 lang: en
 description:
-nav: true
+nav: false
 nav_order: 4
 ---
