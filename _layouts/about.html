@@ -63,7 +63,7 @@ layout: default
               {% assign papers_title = "论文" %}
             {% else %}
               {% assign papers_url = "/publications/" %}
-              {% assign papers_title = "Papers" %}
+              {% assign papers_title = "Selected Papers" %}
             {% endif %}
             <h2><a href="{{ papers_url | relative_url }}" style="color: inherit;"><span class="font-weight-bold">{{ papers_title }}</span></a></h2>
             {%- include selected_papers.html %}
