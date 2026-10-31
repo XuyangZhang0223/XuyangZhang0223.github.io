@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 lang: en
 description:
-years: [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018]
+years: [2026, 2025, 2024, 2023]
 nav: true
 nav_order: 1
 ---
@@ -12,9 +12,9 @@ nav_order: 1
 
 <div class="publications">
 
-<p style="font-family: Times; font-size: 1rem; margin-bottom: 1.5rem; font-weight: bold;">
+<p style="font-family: Arial; font-size: 1rem; margin-bottom: 1.5rem; font-weight: bold;">
   For more up-to-date information, please refer to my 
-  <a href="https://scholar.google.com/citations?user=SQl1XCUAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration: underline;">
+  <a href="https://scholar.google.com/citations?user=osQ5dAkAAAAJ&hl=en" target="_blank" style="text-decoration: underline;">
     Google Scholar
   </a>.
 </p>
