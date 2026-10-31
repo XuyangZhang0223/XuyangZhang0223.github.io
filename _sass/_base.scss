@@ -838,6 +838,20 @@ progress {
   cursor: zoom-in;
 }
 
+.publications .publication-venue {
+  display: block;
+  margin-bottom: 0.5rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.35rem;
+  background-color: var(--global-theme-color);
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.4;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
+}
+
 .medium-zoom-overlay {
   z-index: 1050;
   -webkit-backdrop-filter: blur(6px);
