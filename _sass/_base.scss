@@ -846,3 +846,12 @@ progress {
   z-index: 1051;
   cursor: zoom-out;
 }
+
+.medium-zoom-image--opened {
+  z-index: 1051;
+  cursor: zoom-out;
+  min-width: 0 !important;
+  max-width: none !important;
+  max-height: none !important;
+  object-fit: contain;
+}
