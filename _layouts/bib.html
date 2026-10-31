@@ -3,6 +3,11 @@
 <!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-3 {% if entry.preview_video or entry.preview %}preview{% else %}abbr{% endif %}">
+        {% if entry.abbr %}
+              <div class="publication-venue"{% if site.data.venues[entry.abbr].color %} style="background-color: {{ site.data.venues[entry.abbr].color | escape }};"{% endif %}>
+                {{ entry.abbr }}{% if entry.year %} {{ entry.year }}{% endif %}
+              </div>
+        {% endif %}
         {%- if entry.preview_video -%}
           {% if entry.preview_video contains '://' -%}
           <video class="preview z-depth-1 rounded" controls autoplay muted loop playsinline {% if entry.preview %}poster="{% if entry.preview contains '://' %}{{ entry.preview }}{% else %}{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}{% endif %}"{% endif %}>
