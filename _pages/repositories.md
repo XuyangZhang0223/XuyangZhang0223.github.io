@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Repositories
 lang: en
 description: Our papers' codes are released in the following repos.
-nav: true
+nav: false
 nav_order: 3
 ---
 
