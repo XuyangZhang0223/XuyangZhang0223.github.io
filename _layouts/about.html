@@ -8,7 +8,21 @@ layout: default
           <h1 class="post-title about-title">
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} <span class="font-weight-bold">{{ site.last_name }}</span>{%- else -%}{{ site.title }}{%- endif %}
           </h1>
+          {% if page.social %}
+          <div class="desc about-contact-links">
+            {% if site.email %}
+            <a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
+            {% endif %}
+            {% if site.scholar_userid %}
+            <a href="https://scholar.google.com/citations?user={{ site.scholar_userid | escape }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
+            {% endif %}
+            {% if site.linkedin_username %}
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username | escape }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+            {% endif %}
+          </div>
+          {% else %}
           <p class="desc"><span class="font-weight">:envelope: : </span> {{ page.subtitle }}</p>
+          {% endif %}
         </header>
 
         <article>
