@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 lang: en
 description: I am also a Graduate Teaching Assistant at the University of Bristol for Robotics Research Technology and Methods (EMATM0058). Responsibilities include 1) assisting the unit director with administrative duties and offering support during seminars and laboratory sessions., 2) leading weekly critical thinking and discussion sessions on robotics literature, 3) providing project supervision, feedback, marking and assessment to students. Besides, I have also supported 6 master students at the University of Bristol to accomplish their thesis projects.
-nav: true
+nav: false
 nav_order: 6
 ---
 [Boang Guan](https://github.com/guanboang): Combination of Tactile Gym and Mixed Reality Technique
